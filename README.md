@@ -1,4 +1,4 @@
 Cyclotomy
 =========
 
-Chinese Remainder Theorem for Cyclotomic Polynomials in Z[x]
+Chinese Remainder Theorem for Cyclotomic Polynomials in Z[x].
